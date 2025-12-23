@@ -1,2 +1,64 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+
+### UAS-1 My Concepts (di beranda)
+
+Skor per kriteria:
+Orisinalitas 4, Keterlibatan 3, Humor 1, Wawasan/Insight 4 → Total 12/20 (60%)
+
+Alasan singkat:
+Gagasan AI sebagai alat pembebas dan instrumen sosial kuat dan relevan, dengan sudut pandang yang kritis terhadap sistem pendidikan konvensional. Namun, penyajian masih dominan konseptual dan analitis sehingga keterlibatan emosional pembaca belum maksimal. Tidak ada unsur humor, dan narasi personal belum muncul.
+
+Saran perbaikan:
+Awali dengan pengalaman pribadi atau ilustrasi konkret (mis. kondisi pendidikan di daerah terpencil), sisipkan satu momen reflektif yang lebih emosional, lalu tutup dengan visi personal tentang peran AI dalam masa depan pendidikan agar aspek engagement dan insight meningkat.
+
+### UTS-2 — My Opinions
+
+Skor per kriteria:
+Orisinalitas 3, Keterlibatan 3, Humor 1, Inspirasi 3 → Total 10/20 (50%)
+
+Alasan singkat:
+Tulisan menyajikan opini yang jelas dan seimbang mengenai akar masalah literasi serta peran AI sebagai solusi pendukung. Argumen logis dan relevan dengan kondisi sosial, namun penyampaian masih dominan analitis sehingga belum sepenuhnya menggugah emosi pembaca. Tidak ada unsur humor atau narasi personal yang memperkuat daya tarik.
+
+Saran perbaikan:
+Tambahkan contoh konkret atau pengalaman nyata (mis. kisah individu yang terkendala literasi), sisipkan refleksi pribadi singkat, dan tutup dengan pernyataan visioner atau ajakan nilai agar aspek keterlibatan dan inspirasi meningkat.
+
+### UTS-3 — My Innovations
+Skor per kriteria:
+Orisinalitas 4, Keterlibatan 3, Humor 1, Inspirasi 4 → Total 12/20 (60%)
+
+Alasan singkat:
+Gagasan AILA jelas, aplikatif, dan relevan dengan persoalan literasi nyata. Inovasi menunjukkan pemahaman konteks sosial (buta huruf, daerah terpencil, bahasa lokal) serta solusi yang inklusif dan etis. Namun, penyajian masih bersifat deskriptif-konseptual sehingga keterlibatan emosional pembaca belum maksimal, dan tidak terdapat unsur humor.
+
+Saran perbaikan:
+Tambahkan satu skenario penggunaan konkret (mis. kisah pengguna dewasa di desa terpencil), jelaskan dampak jangka panjang AILA terhadap kehidupan sehari-hari, dan tutup dengan refleksi personal tentang alasan inovasi ini penting bagi Anda agar aspek keterlibatan dan inspirasi meningkat.
+
+### UTS-4 — My Knowledge
+
+Skor per kriteria:
+Orisinalitas 3, Keterlibatan 3, Humor 1, Wawasan/Insight 4 → Total 11/20 (55%)
+
+Alasan singkat:
+Tulisan menunjukkan pemahaman lintas disiplin yang kuat dan terstruktur dengan baik, mencakup AI, Sistem Informasi, Ilmu Pendidikan, Human-Centered Design, dan Etika Teknologi. Penjelasan jelas, logis, dan relevan secara akademik, serta menunjukkan kedalaman wawasan. Namun, gaya penulisan masih bersifat informatif-akademis sehingga keterlibatan emosional pembaca terbatas, dan tidak terdapat unsur humor.
+
+Saran perbaikan:
+Tambahkan contoh penerapan konkret dari masing-masing disiplin (mis. satu skenario pengguna), sisipkan refleksi pribadi tentang alasan pemilihan pendekatan lintas ilmu ini, dan tutup dengan ringkasan visioner agar aspek keterlibatan dan insight semakin kuat.
+
+### UTS-5 — My Professional Reviews
+Skor per kriteria:
+Orisinalitas 4, Keterlibatan 4, Humor 1, Wawasan/Insight 4 → Total 13/20 (65%)
+
+Alasan singkat:
+Penilaian disusun secara konsisten, objektif, dan selaras dengan rubrik. Setiap karya direview dengan argumen yang jelas, bahasa akademik yang rapi, serta menunjukkan kemampuan reflektif dan evaluatif yang matang. Kekuatan utama ada pada wawasan dan kejelasan analisis. Namun, gaya masih sangat formal-profesional sehingga aspek keterlibatan emosional dan kreativitas (termasuk humor) minim.
+
+Saran perbaikan:
+Tambahkan satu paragraf pembuka atau penutup reflektif yang merangkum perjalanan intelektual Anda secara personal (mis. perubahan cara pandang dari UAS-1 hingga UAS-4), serta satu kalimat evaluasi diri (self-critique) agar ulasan terasa lebih hidup dan berkarakter.
+
+---
+
+## Rekap Skor (ringkas)
+
+* **UAS-1:** 12/20 → **60%**
+* **UAS-2:** 10/20 → **50%**
+* **UAS-3:** 12/20 → **65%**
+* **UAS-4:** 11/20 → **55%**
+* **UAS-5:** 13/25 → **65%**
