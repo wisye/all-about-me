@@ -18,7 +18,7 @@ book:
     - My_Opinions/index.qmd
     - My_Innovations/index.qmd
     - My_Knowledge/index.qmd
-    # - My_Professional_Reviews/index.qmd
+    - My_Professional_Reviews/index.qmd
     - summary.qmd
     - references.qmd
 
