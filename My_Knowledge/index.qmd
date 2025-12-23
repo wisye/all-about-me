@@ -1,7 +1,13 @@
 ## UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+### Landasan Ilmu dan Teknologi
+
+Masterpiece ini memadukan berbagai disiplin ilmu agar solusi yang dihasilkan tidak hanya canggih secara teknis, tetapi juga relevan secara sosial. Dari sisi Artificial Intelligence, sistem memanfaatkan teknologi speech recognition dan text-to-speech untuk memungkinkan interaksi berbasis suara, sehingga dapat digunakan oleh individu yang belum memiliki kemampuan membaca dan menulis. Selain itu, machine learning digunakan untuk mempersonalisasi proses pembelajaran, menyesuaikan materi dan kecepatan belajar dengan kemampuan masing-masing pengguna.
+
+Dari perspektif Sistem Informasi, pendekatan ini mencakup pengelolaan data pembelajaran secara terstruktur dan berkelanjutan. Data tersebut digunakan untuk menganalisis perkembangan pengguna dari waktu ke waktu, sehingga sistem dapat memberikan umpan balik yang relevan dan membantu pemangku kepentingan memahami efektivitas proses belajar tanpa harus melakukan intervensi yang berlebihan.
+
+Aspek Ilmu Pendidikan menjadi landasan penting dalam perancangan konten pembelajaran. Konsep literasi fungsional diterapkan dengan menekankan kemampuan membaca, menulis, dan berhitung yang langsung berkaitan dengan kehidupan sehari-hari. Pembelajaran juga dirancang berbasis konteks, sehingga materi terasa lebih dekat, bermakna, dan mudah dipahami oleh pengguna dari berbagai latar belakang.
+
+Pendekatan Human-Centered Design memastikan bahwa teknologi ini ramah bagi pengguna awam. Antarmuka dirancang sesederhana mungkin, dengan fokus pada kenyamanan, kejelasan, dan kemudahan navigasi, sehingga pengguna tidak merasa terintimidasi oleh teknologi. Desain ini menempatkan manusia sebagai pusat, bukan sekadar sebagai pengguna sistem.
+
+Terakhir, Etika Teknologi menjadi fondasi yang tidak terpisahkan dari keseluruhan sistem. Perlindungan privasi data, keadilan algoritmik, dan transparansi sistem dijaga agar teknologi tidak menimbulkan dampak negatif atau diskriminatif. Dengan menggabungkan seluruh disiplin ilmu ini, masterpiece ini bertujuan menghadirkan teknologi yang tidak hanya cerdas secara komputasional, tetapi juga berempati dan bertanggung jawab secara sosial.

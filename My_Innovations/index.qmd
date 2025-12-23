@@ -1,1 +1,41 @@
 # UAS-3 My Innovations
+Gagasan Inovasi: AILA
+
+Sebagai bentuk penerapan nyata, saya mengusulkan sebuah inovasi bernama:
+
+## AILA (Artificial Intelligence for Literacy Access)
+
+AILA adalah sistem pembelajaran literasi berbasis AI yang dirancang khusus untuk:
+
+- Anak putus sekolah
+
+- Orang dewasa buta huruf
+
+- Masyarakat di daerah terpencil
+
+**Cara Kerja AILA**
+
+AILA tidak menuntut pengguna untuk langsung bisa membaca. Sebaliknya, sistem ini:
+
+- Menggunakan suara, gambar, dan simbol
+
+- Mengaitkan pembelajaran dengan aktivitas sehari-hari (pasar, transportasi, pekerjaan)
+
+- Memberikan umpan balik secara perlahan dan positif
+
+**Fitur Utama**
+
+1. **AI Tutor Berbasis Suara**
+Pengguna dapat belajar melalui percakapan sederhana, tanpa harus mengetik atau membaca teks panjang.
+
+2. **Pembelajaran Adaptif**
+Jika pengguna kesulitan, AI otomatis menurunkan tingkat kesulitan dan mengubah metode penyampaian.
+
+3. **Mode Offline**
+Sistem tetap bisa digunakan tanpa internet, sehingga cocok untuk daerah dengan koneksi terbatas.
+
+4. **Bahasa Lokal**
+Mendukung bahasa daerah agar pembelajaran terasa lebih dekat dan tidak mengintimidasi.
+
+5. **Pemantauan Non-Intrusif**
+Data digunakan hanya untuk melihat perkembangan belajar, bukan untuk menghakimi atau memberi label.

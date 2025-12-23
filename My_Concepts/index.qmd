@@ -1,6 +1,17 @@
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
 
-Apa itu berkonsep? 
+## Cara Pandang Dasar terhadap Pendidikan dan AI
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+Konsep utama yang saya pegang adalah bahwa AI seharusnya menjadi alat pembebas, bukan alat eksklusif. Artinya, teknologi ini tidak boleh hanya dinikmati oleh mereka yang sudah memiliki akses pendidikan tinggi dan fasilitas lengkap.
+
+Dalam konteks pendidikan dan literasi, AI dapat diposisikan sebagai:
+
+- Pendamping belajar pribadi
+
+- Pengganti keterbatasan sistem pendidikan konvensional
+
+- Jembatan antara masyarakat terpencil dengan pengetahuan dasar
+
+Berbeda dengan sistem pendidikan tradisional yang cenderung seragam dan kaku, AI memungkinkan pembelajaran yang fleksibel, adaptif, dan berbasis kebutuhan individu. Setiap orang belajar dengan kecepatan dan cara yang berbeda, dan di sinilah AI memiliki keunggulan besar.
+
+Konsep masterpiece ini menempatkan teknologi informasi bukan hanya sebagai alat teknis, tetapi sebagai instrumen sosial yang membantu pemerataan pendidikan.

@@ -1,5 +1,33 @@
-## UAS-3 My Opinions
+## UAS-2 My Opinions
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+### Pandangan Pribadi terhadap Masalah Literasi
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+Menurut saya, akar masalah rendahnya literasi bukan hanya soal tidak adanya sekolah, tetapi lebih dalam dari itu. Banyak orang:
+
+- Putus sekolah karena harus bekerja
+
+- Tidak cocok dengan metode belajar formal
+
+- Merasa malu atau takut belajar di usia dewasa
+
+- Tinggal di wilayah yang secara geografis sulit dijangkau
+
+Di sisi lain, sistem pendidikan formal sering kali menuntut semua orang belajar dengan cara yang sama, seolah-olah setiap individu memiliki latar belakang dan kemampuan yang identik.
+
+Saya berpendapat bahwa AI dapat mengisi celah ini, karena:
+
+- AI tidak menghakimi
+
+- AI bisa mengulang materi tanpa lelah
+
+- AI bisa menyesuaikan gaya belajar pengguna
+
+Namun, saya juga berpandangan bahwa penggunaan AI dalam pendidikan harus dikendalikan secara etis. Jika tidak, AI justru berpotensi:
+
+- Menggantikan peran manusia secara berlebihan
+
+- Memperbesar kesenjangan digital
+
+- Menghasilkan materi yang bias budaya atau gender
+
+Karena itu, AI harus digunakan sebagai pendukung pendidikan, bukan sebagai satu-satunya solusi.
