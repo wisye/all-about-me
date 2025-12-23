@@ -11,7 +11,7 @@ Gagasan AI sebagai alat pembebas dan instrumen sosial kuat dan relevan, dengan s
 Saran perbaikan:
 Awali dengan pengalaman pribadi atau ilustrasi konkret (mis. kondisi pendidikan di daerah terpencil), sisipkan satu momen reflektif yang lebih emosional, lalu tutup dengan visi personal tentang peran AI dalam masa depan pendidikan agar aspek engagement dan insight meningkat.
 
-### UTS-2 — My Opinions
+### UAS-2 — My Opinions
 
 Skor per kriteria:
 Orisinalitas 3, Keterlibatan 3, Humor 1, Inspirasi 3 → Total 10/20 (50%)
@@ -22,7 +22,7 @@ Tulisan menyajikan opini yang jelas dan seimbang mengenai akar masalah literasi 
 Saran perbaikan:
 Tambahkan contoh konkret atau pengalaman nyata (mis. kisah individu yang terkendala literasi), sisipkan refleksi pribadi singkat, dan tutup dengan pernyataan visioner atau ajakan nilai agar aspek keterlibatan dan inspirasi meningkat.
 
-### UTS-3 — My Innovations
+### UAS-3 — My Innovations
 Skor per kriteria:
 Orisinalitas 4, Keterlibatan 3, Humor 1, Inspirasi 4 → Total 12/20 (60%)
 
@@ -32,7 +32,7 @@ Gagasan AILA jelas, aplikatif, dan relevan dengan persoalan literasi nyata. Inov
 Saran perbaikan:
 Tambahkan satu skenario penggunaan konkret (mis. kisah pengguna dewasa di desa terpencil), jelaskan dampak jangka panjang AILA terhadap kehidupan sehari-hari, dan tutup dengan refleksi personal tentang alasan inovasi ini penting bagi Anda agar aspek keterlibatan dan inspirasi meningkat.
 
-### UTS-4 — My Knowledge
+### UAS-4 — My Knowledge
 
 Skor per kriteria:
 Orisinalitas 3, Keterlibatan 3, Humor 1, Wawasan/Insight 4 → Total 11/20 (55%)
@@ -43,7 +43,7 @@ Tulisan menunjukkan pemahaman lintas disiplin yang kuat dan terstruktur dengan b
 Saran perbaikan:
 Tambahkan contoh penerapan konkret dari masing-masing disiplin (mis. satu skenario pengguna), sisipkan refleksi pribadi tentang alasan pemilihan pendekatan lintas ilmu ini, dan tutup dengan ringkasan visioner agar aspek keterlibatan dan insight semakin kuat.
 
-### UTS-5 — My Professional Reviews
+### UAS-5 — My Professional Reviews
 Skor per kriteria:
 Orisinalitas 4, Keterlibatan 4, Humor 1, Wawasan/Insight 4 → Total 13/20 (65%)
 
