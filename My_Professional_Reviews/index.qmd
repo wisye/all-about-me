@@ -2,63 +2,49 @@
 
 ### UAS-1 My Concepts (di beranda)
 
-Skor per kriteria:
-Orisinalitas 4, Keterlibatan 3, Humor 1, Wawasan/Insight 4 → Total 12/20 (60%)
+Skor per kriteria: Clarity 5, Logic 4, Validity 4, Usefulness 4 → Total 17/20 (85%)
 
-Alasan singkat:
-Gagasan AI sebagai alat pembebas dan instrumen sosial kuat dan relevan, dengan sudut pandang yang kritis terhadap sistem pendidikan konvensional. Namun, penyajian masih dominan konseptual dan analitis sehingga keterlibatan emosional pembaca belum maksimal. Tidak ada unsur humor, dan narasi personal belum muncul.
+Alasan singkat: Tulisan memiliki Clarity (Kejelasan) yang sangat baik; poin-poin tersusun rapi dan mudah dipahami. Secara Logic (Logika), argumen bahwa AI sebagai alat pembebas mengalir dengan runtut dari visi ke implementasi. Nilai Validity (Validitas) cukup kuat karena relevan dengan isu kesenjangan digital saat ini. Secara Usefulness (Kebermanfaatan), konsep ini memberikan kerangka berpikir yang praktis bagi pendidik untuk melihat AI melampaui sekadar alat teknis.
 
-Saran perbaikan:
-Awali dengan pengalaman pribadi atau ilustrasi konkret (mis. kondisi pendidikan di daerah terpencil), sisipkan satu momen reflektif yang lebih emosional, lalu tutup dengan visi personal tentang peran AI dalam masa depan pendidikan agar aspek engagement dan insight meningkat.
+Saran perbaikan: Untuk mencapai skor sempurna pada aspek Logic dan Validity, Anda bisa menambahkan sedikit landasan teoritis atau data singkat mengenai efektivitas AI dalam personalisasi belajar (misalnya menyebutkan Adaptive Learning). Selain itu, untuk meningkatkan aspek Usefulness, berikan satu contoh konkret atau skenario kecil bagaimana AI menjadi "jembatan" bagi masyarakat terpencil agar konsep ini tidak terasa terlalu abstrak.
 
 ### UAS-2 — My Opinions
 
-Skor per kriteria:
-Orisinalitas 3, Keterlibatan 3, Humor 1, Inspirasi 3 → Total 10/20 (50%)
+Skor per kriteria: Clarity 5, Logic 5, Validity 4, Usefulness 4 → Total 18/20 (90%)
 
-Alasan singkat:
-Tulisan menyajikan opini yang jelas dan seimbang mengenai akar masalah literasi serta peran AI sebagai solusi pendukung. Argumen logis dan relevan dengan kondisi sosial, namun penyampaian masih dominan analitis sehingga belum sepenuhnya menggugah emosi pembaca. Tidak ada unsur humor atau narasi personal yang memperkuat daya tarik.
+Alasan singkat: Bagian ini menunjukkan Logic (Logika) yang sangat kuat karena tidak hanya memuji teknologi, tetapi juga memberikan argumen penyeimbang (kontra) mengenai etika dan bias. Clarity (Kejelasan) tetap terjaga dengan penggunaan bullet points yang efektif. Secara Validity (Validitas), identifikasi masalah literasi (seperti rasa malu belajar di usia dewasa) sangat akurat secara sosiologis. Poin mengenai AI yang "tidak menghakimi" adalah Insight yang sangat tajam dan berguna secara praktis.
 
-Saran perbaikan:
-Tambahkan contoh konkret atau pengalaman nyata (mis. kisah individu yang terkendala literasi), sisipkan refleksi pribadi singkat, dan tutup dengan pernyataan visioner atau ajakan nilai agar aspek keterlibatan dan inspirasi meningkat.
+Saran perbaikan: Untuk memperkuat aspek Usefulness (Kebermanfaatan), Anda bisa menambahkan satu kalimat penutup yang menyarankan langkah konkret tentang "pengendalian etis" yang dimaksud. Misalnya, apakah itu melalui regulasi pemerintah atau kurikulum literasi digital bagi pengguna. Ini akan mengubah opini dari sekadar kekhawatiran menjadi solusi yang bisa ditindaklanjuti.
 
 ### UAS-3 — My Innovations
-Skor per kriteria:
-Orisinalitas 4, Keterlibatan 3, Humor 1, Inspirasi 4 → Total 12/20 (60%)
 
-Alasan singkat:
-Gagasan AILA jelas, aplikatif, dan relevan dengan persoalan literasi nyata. Inovasi menunjukkan pemahaman konteks sosial (buta huruf, daerah terpencil, bahasa lokal) serta solusi yang inklusif dan etis. Namun, penyajian masih bersifat deskriptif-konseptual sehingga keterlibatan emosional pembaca belum maksimal, dan tidak terdapat unsur humor.
+Skor per kriteria: Clarity 5, Logic 5, Validity 4, Usefulness 5 → Total 19/20 (95%)
 
-Saran perbaikan:
-Tambahkan satu skenario penggunaan konkret (mis. kisah pengguna dewasa di desa terpencil), jelaskan dampak jangka panjang AILA terhadap kehidupan sehari-hari, dan tutup dengan refleksi personal tentang alasan inovasi ini penting bagi Anda agar aspek keterlibatan dan inspirasi meningkat.
+Alasan singkat: Inovasi AILA memiliki Clarity (Kejelasan) yang luar biasa dalam mendefinisikan fitur dan target pengguna. Secara Logic (Logika), solusi yang ditawarkan (seperti fitur suara dan bahasa lokal) menjawab langsung akar masalah yang Anda sebutkan di UAS-2 (malu belajar/daerah terpencil). Usefulness (Kebermanfaatan) mendapat skor maksimal karena fitur Mode Offline dan Bahasa Lokal adalah solusi praktis yang sangat dibutuhkan di lapangan. Validity (Validitas) tinggi karena teknologi Voice Recognition dan Adaptive Learning memang sudah memungkinkan untuk diimplementasikan saat ini.
+
+Saran perbaikan: Untuk menyempurnakan aspek Validity, Anda bisa sedikit menyinggung bagaimana AILA mendapatkan konten pembelajarannya—misalnya melalui kolaborasi dengan pakar pendidikan atau komunitas lokal untuk memastikan kurikulumnya tetap relevan secara budaya (menghindari bias yang Anda khawatirkan di UAS-2).
 
 ### UAS-4 — My Knowledge
 
-Skor per kriteria:
-Orisinalitas 3, Keterlibatan 3, Humor 1, Wawasan/Insight 4 → Total 11/20 (55%)
+Skor per kriteria: Clarity 5, Logic 5, Validity 5, Usefulness 5 → Total 20/20 (100%)
 
-Alasan singkat:
-Tulisan menunjukkan pemahaman lintas disiplin yang kuat dan terstruktur dengan baik, mencakup AI, Sistem Informasi, Ilmu Pendidikan, Human-Centered Design, dan Etika Teknologi. Penjelasan jelas, logis, dan relevan secara akademik, serta menunjukkan kedalaman wawasan. Namun, gaya penulisan masih bersifat informatif-akademis sehingga keterlibatan emosional pembaca terbatas, dan tidak terdapat unsur humor.
+Alasan singkat: Ini adalah bagian terkuat yang menyatukan seluruh narasi Anda. Secara Clarity (Kejelasan), transisi antar disiplin ilmu (AI, SI, Ilmu Pendidikan, HCD, Etika) sangat mulus. Secara Logic (Logika) dan Validity (Validitas), pemilihan teknologi Speech Recognition dan Machine Learning sangat sinkron dengan masalah buta huruf yang diangkat sebelumnya. Poin mengenai Etika Teknologi dan Human-Centered Design memberikan bobot tanggung jawab profesional yang sangat tinggi, menunjukkan bahwa Anda tidak hanya memahami "cara kerja" teknologi, tetapi juga "dampak" teknologi tersebut.
 
-Saran perbaikan:
-Tambahkan contoh penerapan konkret dari masing-masing disiplin (mis. satu skenario pengguna), sisipkan refleksi pribadi tentang alasan pemilihan pendekatan lintas ilmu ini, dan tutup dengan ringkasan visioner agar aspek keterlibatan dan insight semakin kuat.
+Saran perbaikan: Bagian ini sudah sangat komprehensif. Sebagai sentuhan akhir, Anda bisa menyebutkan satu istilah teknis yang spesifik seperti NLP (Natural Language Processing) di bagian interaksi suara untuk mempertegas kedalaman pemahaman Anda di bidang Sistem Informasi/AI.
 
 ### UAS-5 — My Professional Reviews
-Skor per kriteria:
-Orisinalitas 4, Keterlibatan 4, Humor 1, Wawasan/Insight 4 → Total 13/20 (65%)
+Skor per kriteria: Clarity 5, Logic 5, Validity 5, Usefulness 5 → Total 20/20 (100%)
 
-Alasan singkat:
-Penilaian disusun secara konsisten, objektif, dan selaras dengan rubrik. Setiap karya direview dengan argumen yang jelas, bahasa akademik yang rapi, serta menunjukkan kemampuan reflektif dan evaluatif yang matang. Kekuatan utama ada pada wawasan dan kejelasan analisis. Namun, gaya masih sangat formal-profesional sehingga aspek keterlibatan emosional dan kreativitas (termasuk humor) minim.
+Alasan singkat: Bagian ini menunjukkan tingkat metakognisi yang sangat baik—kemampuan untuk menilai dan mengevaluasi karya sendiri secara objektif. Clarity (Kejelasan) sangat tinggi karena Anda menyajikan rekapitulasi yang terstruktur. Secara Logic (Logika), alasan dan saran perbaikan yang Anda tuliskan menunjukkan konsistensi intelektual; Anda tahu persis di mana letak kekuatan dan celah yang perlu diperbaiki dari setiap bagian sebelumnya. Usefulness (Kebermanfaatan) dan Validity (Validitas) berada pada level maksimal karena bagian ini berfungsi sebagai kontrol kualitas (quality control) yang memastikan seluruh argumen Anda tetap berpijak pada standar profesional yang tinggi.
 
-Saran perbaikan:
-Tambahkan satu paragraf pembuka atau penutup reflektif yang merangkum perjalanan intelektual Anda secara personal (mis. perubahan cara pandang dari UAS-1 hingga UAS-4), serta satu kalimat evaluasi diri (self-critique) agar ulasan terasa lebih hidup dan berkarakter.
+Saran perbaikan: Bagian ini sudah sangat solid sebagai penutup evaluasi mandiri. Jika ingin lebih mendalam, Anda bisa menambahkan satu kalimat kesimpulan di bagian paling akhir tentang bagaimana proses "Professional Review" ini mengubah cara pandang Anda terhadap inovasi AILA—misalnya, Anda menjadi lebih sadar akan pentingnya aspek etika dan validasi data daripada sekadar kecanggihan fitur teknis.
 
 ---
 
 ## Rekap Skor (ringkas)
 
-* **UAS-1:** 12/20 → **60%**
-* **UAS-2:** 10/20 → **50%**
-* **UAS-3:** 12/20 → **65%**
-* **UAS-4:** 11/20 → **55%**
-* **UAS-5:** 13/25 → **65%**
+* **UAS-1:** 17/20 → **85%**
+* **UAS-2:** 18/20 → **90%**
+* **UAS-3:** 19/20 → **95%**
+* **UAS-4:** 20/20 → **100%**
+* **UAS-5:** 20/25 → **100%**
